@@ -4,7 +4,6 @@ layout: single
 toc: true
 toc_sticky: true
 toc_label: 목차
-typora-root-url: ../
 ---
 
 
