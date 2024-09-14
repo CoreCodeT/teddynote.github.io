@@ -102,7 +102,7 @@ warnings.filterwarnings('ignore')
 
 ![wrtFileImageView](C:\Users\taewon\Desktop\gitBlog\1_inflearn\teddynote.github.io\images\2023-09-26-regression\wrtFileImageView.jpg)
 
-하나의 종속변수와 하나의 독립변수 사이의 관계를 분석할 경우를 **단순회귀분석(simple regression analysis)**, 하나의 종속변수와 여러 독립변수 사이의 관계를 규명하고자 할 경우를 **다중회귀분석(multiple regression analysis)**이라고 합니다.
+하나의 종속변수와 하나의 독립변수 사이의 관계를 분석할 경우를 **단순회귀분석(simple regression analysis)**, 하나의 종속변수와 여러 독립변수 사이의 관계를 규명하고자 할 경우를 **다중회귀분석(multiple regression analysis)**이라고 합니다.dd
 
 **예시**
 
