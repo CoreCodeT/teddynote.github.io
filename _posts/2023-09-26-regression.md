@@ -4,6 +4,7 @@ layout: single
 toc: true
 toc_sticky: true
 toc_label: 목차
+typora-root-url: ../
 ---
 
 
@@ -100,7 +101,7 @@ warnings.filterwarnings('ignore')
 
 회귀 분석(regression analysis)은 관찰된 연속형 변수들에 대해 두 변수 사이의 모형을 구한뒤 적합도를 측정해 내는 분석 방법입니다.
 
-하나의 종속변수와 하나의 독립변수 사이의 관계를 분석할 경우를 **단순회귀분석(simple regression analysis)**, 하나의 종속변수와 여러 독립변수 사이![wrtFileImageView](/images/2023-09-26-regression/wrtFileImageView-1726296175648-4.jpg)의 관계를 규명하고자 할 경우를 **다중회귀분석(multiple regression analysis)**이라고 합니다.dd
+하나의 종속변수와 하나의 독립변수 사이의 관계를 분석할 경우를 **단순회귀분석(simple regression analysis)**, 하나의 종속변수와 여러 독립변수 사이의 관계를 규명하고자 할 경우를 **다중회귀분석(multiple regression analysis)**이라고 합니다.dd
 
 **예시**
 
@@ -126,6 +127,7 @@ warnings.filterwarnings('ignore')
 
 
 등이 있습니다.
+
 
 
 [도큐먼트](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
