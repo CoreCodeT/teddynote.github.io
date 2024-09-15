@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "site author name 입력하는 곳 "
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/dd.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere localtion 입력"
   email            : " E-mail 입력 "
